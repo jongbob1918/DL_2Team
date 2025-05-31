@@ -1,4 +1,5 @@
-# DL_2Team
+# FALCON: 딥러닝 기반 활주로 안전 대응 시스템
+> Foreign object Auto-detection & Localization Camera Observation Network
 
 ### 폴더 구조
 
