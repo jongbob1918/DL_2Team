@@ -1,4 +1,4 @@
-# FALCON: 딥러닝 기반 공항 안전 대응 시스템
+# FALCON: 딥러닝 기반 비행장 안전 대응 시스템
 > Foreign object Auto-detection & Localization Camera Observation Network
 
 ### 폴더 구조
