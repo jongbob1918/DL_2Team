@@ -1,0 +1,15 @@
+path: /home/mac/Downloads/ground_dataset/merged_dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 8
+names:
+  - bird         # 0
+  - FOD       # 1
+  - human        # 2
+  - animal       # 3
+  - airplane     # 4
+  - batcar       # 5
+  - marker       # 6
+  - drone        # 7
